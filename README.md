@@ -1,1 +1,16 @@
 # Machine Learning
+## Supervised Learning
+In supervised learning, the model is trained using labeled data, where each input is paired with the correct output. The goal is to learn a mapping function from inputs to outputs.
+#### Types of Supervised Learning:
+Classification: Predict discrete labels 
+    Example: Logistic Regression, Decision Trees, Support Vector Machines (SVM).
+Regression: Predict continuous values
+    Example: Linear Regression, Random Forest Regression.
+
+## Unsupervised Learning
+In unsupervised learning, the model is trained on unlabeled data. The objective is to identify patterns, structures, or groupings in the data.
+#### Types of Unsupervised Learning:
+Clustering: Group data into clusters 
+    Example: K-Means, Hierarchical Clustering, DBSCAN.
+Dimensionality Reduction: Reduce data complexity while preserving important information 
+    Example: PCA, t-SNE
