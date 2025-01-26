@@ -14,3 +14,19 @@ Clustering: Group data into clusters
     Example: K-Means, Hierarchical Clustering, DBSCAN.
 Dimensionality Reduction: Reduce data complexity while preserving important information 
     Example: PCA, t-SNE
+
+## Sample Dataset
+tmnist dataset is a collection of 26 characters of the English language in different fonts.
+So, we have A -> Z in differet fonts.
+
+## Machine Learning Algorithms explored
+In Exploring Supervised Learning 1, we experiment with the following, 
+#### Principal component analysis  
+#### Fishers- Linear Discriminant Analysis 
+#### TSNE 
+#### K-Nearest Neighbour classifier 
+#### Parzen Window classifier 
+#### Logistic regression 
+#### Perceptron
+
+In Exploring Supervised Learning 2, we experiment with the followng,
