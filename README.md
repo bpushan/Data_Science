@@ -30,3 +30,7 @@ In Exploring Supervised Learning 1, we experiment with the following,
 #### Perceptron
 
 In Exploring Supervised Learning 2, we experiment with the followng,
+#### Neural Network classifier 
+#### Support Vector Machine classifier 
+#### Random Forest Classifier 
+#### Pair-wise Classifier
