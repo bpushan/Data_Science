@@ -20,7 +20,7 @@ tmnist dataset is a collection of 26 characters of the English language in diffe
 So, we have A -> Z in differet fonts.
 
 ## Machine Learning Algorithms explored
-In Exploring Supervised Learning 1, we experiment with the following, 
+In Exploring Machine Learning 1, we experiment with the following, 
 #### Principal component analysis  
 #### Fishers- Linear Discriminant Analysis 
 #### TSNE 
@@ -29,7 +29,7 @@ In Exploring Supervised Learning 1, we experiment with the following,
 #### Logistic regression 
 #### Perceptron
 
-In Exploring Supervised Learning 2, we experiment with the followng,
+In Exploring Machine Learning 2, we experiment with the followng,
 #### Neural Network classifier 
 #### Support Vector Machine classifier 
 #### Random Forest Classifier 
