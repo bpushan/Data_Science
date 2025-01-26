@@ -19,7 +19,9 @@ Dimensionality Reduction: Reduce data complexity while preserving important info
 tmnist dataset is a collection of 26 characters of the English language in different fonts.
 So, we have A -> Z in differet fonts.
 
-## Machine Learning Algorithms explored
+mushroom dataset
+
+## Machine Learning Algorithms explored using tmnist
 In Exploring Machine Learning 1, we experiment with the following, 
 #### Principal component analysis  
 #### Fishers- Linear Discriminant Analysis 
@@ -34,3 +36,5 @@ In Exploring Machine Learning 2, we experiment with the followng,
 #### Support Vector Machine classifier 
 #### Random Forest Classifier 
 #### Pair-wise Classifier
+
+In Exploring Decision Tree, we use the mushroon dataset to play with the algo to create multiple trees by hyperparameter tuning in search to find the optimal tree.
